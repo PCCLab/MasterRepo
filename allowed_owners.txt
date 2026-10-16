@@ -4,3 +4,5 @@
 # If this file contains no usernames, NO repo is listed.
 
 tizianatocci
+phersen
+mathieucoppey
